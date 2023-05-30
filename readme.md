@@ -1,3 +1,20 @@
+WICHTIG: 
+
+P.s. Alternativ bplaced oder besser das statt heroku (free)
+
+https://app.infinityfree.net
+
+++
+
+P.s. die csv Datei könnt ihr auch mit Dropbox hochladen und bei der URL dann dl=1 statt dl=0 das funktioniert natürlich auch 
+
+++
+
+Uid kann man nur bekommen statt der example die URL rein oder danach in data.json rein machen (selber) !
+
+weiter ab da bitte :
+
+
 # [ezIPTV v0.5](https://github.com/spencerthayer/ezIPTV)
 
 ezIPTV is a simple and free personal IPTV manager.
